@@ -1,0 +1,5 @@
+.env
+*/.env
+simple-sms-alert/.env
+*/venv
+simple-sms-alert/venv
